@@ -41,10 +41,11 @@ chmod +x install.sh
 ./evader.py or python3 evader.py
 ```
 # Requirements
-- Metasploit Framework
-- msfvenom
-- Wine
-- Mingw-w64 Compiler
+🔴 Kali Linux <br/>
+🔴 Python3 <br/>
+🔴 Metasploit Framework <br/>
+🔴 Wine <br/>
+🔴 Mingw-w64 Compiler <br/>
 
 ## Contact me
 🔴 admin@hacktidu.in - **Email**<br/>
