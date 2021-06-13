@@ -47,12 +47,12 @@ chmod +x install.sh
 - Mingw-w64 Compiler
 
 ## Contact me
-admin@hacktidu.in - **Email**
-https://hacktidu.in - **WEBSITE**
-https://bit.ly/3zkm3HA - **Youtube**
-https://bit.ly/2TToalk - **Instgram**
-https://bit.ly/2U2v485 - **Whatsapp Group**
-https://bit.ly/3xjEQkm - **Facebook Group**
+🔴 admin@hacktidu.in - **Email** |
+🔴 https://hacktidu.in - **WEBSITE** |
+🔴 https://bit.ly/3zkm3HA - **Youtube** |
+🔴 https://bit.ly/2TToalk - **Instgram** |
+🔴 https://bit.ly/2U2v485 - **Whatsapp Group** |
+🔴 https://bit.ly/3xjEQkm - **Facebook Group** |
 
 ## Information
 
