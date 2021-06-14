@@ -58,4 +58,6 @@ chmod +x install.sh
 ## Information
 
  This tool is for educational purpose only, usage of Evader for attacking targets without prior mutual consent is illegal.
- Developers assume no liability and are not responsible for any misuse or damage cause by this program.
+ Developers assume no liability and are not responsible for any misuse or damage cause by this program.<br/>
+ 
+🔴 **Never Upload this payload on virustotal,use noditribute.com** 🔴 
